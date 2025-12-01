@@ -1,1 +1,8 @@
-
+[{
+      "relation": ["delegate_permission/common.handle_all_urls"],
+      "target": {
+        "namespace": "android_app",
+        "package_name": "io.github.flask_novo.twa",
+        "sha256_cert_fingerprints": ["EA:EA:5E:48:DD:2F:63:F5:18:F1:F9:39:14:6F:1E:92:C6:94:CF:6F:61:8B:FB:17:CA:EA:7F:BE:38:A2:04:96"]
+      }
+    }]
